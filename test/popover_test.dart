@@ -2,7 +2,7 @@ import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:popover/popover.dart';
+import 'package:popover_gtk/popover.dart';
 
 void main() {
   setUp(() {

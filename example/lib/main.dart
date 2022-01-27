@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:popover/popover.dart';
+import 'package:popover_gtk/popover.dart';
 
 void main() => runApp(PopoverExample());
 

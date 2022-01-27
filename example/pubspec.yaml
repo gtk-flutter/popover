@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  popover:
+  popover_gtk:
     path: ../
 
 dev_dependencies:

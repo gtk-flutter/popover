@@ -1,5 +1,5 @@
-name: popover
-description: A popover is a transient view that appears above other content onscreen when you tap a control or in an area.
+name: popover_gtk
+description: A popover made to be used with libadwaita library, Includes fade animation instead of scale.
 version: 0.2.6+3
 homepage: https://github.com/minikin/popover
 
