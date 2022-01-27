@@ -21,14 +21,13 @@ class PopoverRenderShiftedBox extends RenderShiftedBox {
     Rect? attachRect,
     Color? color,
     List<BoxShadow>? boxShadow,
-    double? scale,
     double? radius,
     PopoverDirection? direction,
   }) : super(child) {
     _attachRect = attachRect;
     _color = color;
     _boxShadow = boxShadow;
-    _scale = scale;
+    _scale = 1.0;
     _radius = radius;
     _direction = direction;
   }
